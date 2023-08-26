@@ -6,11 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks & Workshops"
     url: /talks/
 
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "CV"
+  url: /cv/Mohamed Ibrahim - Resume.pdf
 
   # - title: "Blog Posts"
   #   url: /year-archive/
