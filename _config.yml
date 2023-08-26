@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Mohamed Ibrahim"
+title: "Mohamed's Homepage"
 title_separator: "-"
 name: &name "Mohamed Ibrahim"
 description: &description "personal description"
