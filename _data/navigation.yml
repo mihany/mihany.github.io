@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "CV"
-  url: /cv/Mohamed Ibrahim - Resume.pdf
+  - title: "Resume"
+  url: /files/Mohamed Ibrahim - Resume.pdf
 
   # - title: "Blog Posts"
   #   url: /year-archive/
