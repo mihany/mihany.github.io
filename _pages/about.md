@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohamed Ibrahim"
+title: "About Mohamed"
 excerpt: "About me"
 author_profile: true
 redirect_from:
